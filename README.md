@@ -18,3 +18,7 @@ So this is a concept only document.
 # Flatten N
 If original processor has infected on invariants, we might get better result with this 'one of a approximation with simple enough is the best' algorithm.
 But in general, they might come from the software/hardware infection in low layers, so in their case, we cannot vanish them.
+
+# Problem this calls
+The description on this calls some of the problems s.t. det(J((1,g\_0,...)/(1,x\_0,...)))==0 when we're thinking about S f(x) dx.
+The problem can be regarded as grid point on g\_0, ... the x\_0, ... produces can be in N^n or not.
