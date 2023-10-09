@@ -9,7 +9,11 @@ So we take first hypothesis as g\_0, ... is simple enough in f's addition, multi
 
 So analogy to this, we take \[\[1, 1, ...\], \[g\_0, ...\], \[\parial g\_0/\partial x, ...\], ..., \[\partial^N g\_0/\partial x^N, ...\]\] for pseudo integration core.
 
+However, to take whole integration multiplication invariant, we can shirk the integration to geometrics as det(...) == 0. So we should fit them.
+
 We should list up simple function as g\_k first, then, we fit some of the jacobians next.
+
+Also, with randtools General Tips AN, we should collect the viewpoint start points as {(1, f_k, g_k)}_k=1^k=n as such functions.
 
 # Concept only in eternal
 We don't implement this because we don't need them now.
