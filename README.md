@@ -26,3 +26,8 @@ But in general, they might come from the software/hardware infection in low laye
 # Problem this calls
 The description on this calls some of the problems s.t. det(J((1,g\_0,...)/(1,x\_0,...)))==0 when we're thinking about S f(x) dx.
 The problem can be regarded as grid point on g\_0, ... the x\_0, ... produces can be in N^n or not.
+
+# Multiple layer on this
+We can use the ancestor of p3 as p0 because it's {1,x,x^2,...} series depends on {cis(t),cis(2t),...} seires.
+So we might need some after layer on this on some of the complex structures this cannot handle. (eg. the series they doesn't converges.)
+
