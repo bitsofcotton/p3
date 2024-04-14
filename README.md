@@ -31,3 +31,13 @@ The problem can be regarded as grid point on g\_0, ... the x\_0, ... produces ca
 We can use the ancestor of p3 as p0 because it's {1,x,x^2,...} series depends on {cis(t),cis(2t),...} seires.
 So we might need some after layer on this on some of the complex structures this cannot handle. (eg. the series they doesn't converges.)
 
+# Tips on continuous
+This predictor inserts continuous part correctly.
+
+Since p0 inserts continuous part as fixed and only one exist, they causes analytical singular point as nearly fixed places doesn't depend on input stream.
+
+Also p1 inserts continuous part as the shrinked variable number structure itselves. This can slips by observation, nor this cannot treat the input stream structure as simple enough.
+Since p1's numerical error of the linear invariant take depends on the structure complexity, either the structure also depends on higher dimension non tuned invariant structure, they needs to have analytical meaning correct, the p1 is not enough if input data stream size isn't enough. However, if we treat input status length long enough and multiple of the p1 apply, we might get same order result on the prediction differed this p3, so we don't need this now.
+
+Either, ongoing deep learnings on some where we can find has enough meaning around continuity, however, doesn't touch the simplicity the learned function have, instead of simplicity, they have copy structure error tolerance rate.
+
