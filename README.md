@@ -41,3 +41,8 @@ Since p1's numerical error of the linear invariant take depends on the structure
 
 Either, ongoing deep learnings on some where we can find has enough meaning around continuity, however, doesn't touch the simplicity the learned function have, instead of simplicity, they have copy structure error tolerance rate.
 
+# Tips on another solution
+On the other hand, we can resolve the problem with p1 copy structure with some of the layers, then, decode into some of the codes and restrict or reduce codes with rough sketch.
+This also causes compatible to Integrate det(J((...)/(...))) dx_k... forms.
+So instead of this, we should implement them.
+
